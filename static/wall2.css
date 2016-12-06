@@ -1,0 +1,12 @@
+.left{
+	display: inline-block;
+}
+
+.right{
+	display: inline-block;
+	background-color: purple;
+}
+
+.body{
+	background-color: red;
+}
